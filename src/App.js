@@ -11,7 +11,7 @@ function App() {
   const [searchValue, setSearchValue] = useState([]);
 
   const getRequest = async (searchValue) => {
-    const url = `http://www.omdbapi.com/?s=${searchValue}&apikey=ba74b7c&`;
+    const url = `https://www.omdbapi.com/?s=${searchValue}&apikey=ba74b7c&`;
     const response = await fetch(url);
     const responseJson = await response.json();
     console.log(responseJson);
