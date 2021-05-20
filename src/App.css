@@ -1,0 +1,23 @@
+body {
+  background: #141414;
+  color: #ffffff;
+}
+
+/* .app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+} */
+
+.input-header {
+  font-size: 1.75rem;
+}
+
+.image-container {
+  position: relative;
+  transition: transform 0.3s;
+}
+
+.image-container:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
