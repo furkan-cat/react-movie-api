@@ -29,6 +29,8 @@ Type to input any film that you want to search.
 
 [Project-Demo](https://react-movie-bootstrap-app.netlify.app/)
 
+![Screenshot from 2021-05-22 19-27-04](https://user-images.githubusercontent.com/75113766/119233922-d9660480-bb33-11eb-9776-cee9893518ea.png)
+
 
 #### React Used
 
