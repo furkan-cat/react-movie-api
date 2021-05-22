@@ -1,4 +1,4 @@
-# react-form-app
+# react-movie-app
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
